@@ -1,3 +1,6 @@
+## Notes
+This fork is a quick fix to compile using gcc instead of clang.
+
 # PREAMBLE
 This is an edit of prev libftest made by @jtoty to fit with the 2019 project libft. <br/>
 (ORIGINAL REP : https://github.com/jtoty/Libftest) <br/>
